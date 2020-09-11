@@ -31,17 +31,23 @@
     </v-app-bar>
     <v-container fluid>
       <v-row justify="center">
-        <!-- <v-col align="right">
-          <v-img
-            src="https://humetis.com/library/assets/images/Humetis_Logo.png"
-            height="50"
-            width="70"
-          ></v-img>
-        </v-col>-->
         <v-col align="center">
           <div class="text-h5">HuMetis Group</div>
           <div class="text-h7">We are Transforming</div>
           <div class="text-h7">From Consultancy to Company & From Consultants to Employees</div>
+        </v-col>
+      </v-row>
+      <v-card class="mx-auto mb-3" max-width="720">
+        <v-card-text>
+          <div class="text-h8 text--primary">
+            Please go through the new Proposed Salaried Options for you to opt in one of the options
+            You can also see the comparison and benefits of the proposed option than your current hourly payment option
+          </div>
+        </v-card-text>
+      </v-card>
+      <v-row justify="center">
+        <v-col align="center">
+          <v-divider width="800"></v-divider>
         </v-col>
       </v-row>
     </v-container>
